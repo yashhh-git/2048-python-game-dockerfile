@@ -1,0 +1,7 @@
+Commands: 
+
+1. docker build . (To build image)
+2. docker images  (To check for image created)
+3. docker run -d -p 80 <image-name> (To run image)
+4. docker ps (to check for docker container created using docker image)
+5. docker start container-id (to start docker container)
