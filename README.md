@@ -5,7 +5,7 @@ A dockerfile created to build an image to run container which contains the sourc
 1. Linux/Windows OS (I have used Linux Ubuntu)
 2. Docker & Git installed on your machine
 
-**Steps to run dockerfile are given below:**
+**Steps to run dockerfile are given below:** 
 Step 1: Open VS Code
 
 Step 2: Save the dockerfile naming **Dockerfile**
